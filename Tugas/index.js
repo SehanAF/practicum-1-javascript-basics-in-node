@@ -6,4 +6,4 @@ let getTitle = () => {
  return "B.Sc"
 }
 
-console.log(fullName("John","Doe","Smith"))
+console.log(fullName("John","Dream","Myung"))
